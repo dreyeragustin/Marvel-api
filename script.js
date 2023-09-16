@@ -1,4 +1,4 @@
-const apiUrl = "http://gateway.marvel.com/v1/public/characters?ts=1&apikey=3562247efb0eebfaee149123974bf71a&hash=4d78d9650e733a74646b97ca617c3dbc";
+const apiUrl = "https://gateway.marvel.com/v1/public/characters?ts=1&apikey=3562247efb0eebfaee149123974bf71a&hash=4d78d9650e733a74646b97ca617c3dbc";
 
 const characterList = document.getElementById("character-list");
 
